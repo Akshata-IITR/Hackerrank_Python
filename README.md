@@ -21,3 +21,12 @@ The year is also evenly divisible by 400. Then it is a leap year.
 Task
 
 Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.
+
+## Python_27_June(Task):
+The included code stub will read an integer, n, from STDIN.
+
+Without using any string methods, try to print the following:
+123...n
+
+
+
