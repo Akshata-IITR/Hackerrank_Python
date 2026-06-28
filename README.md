@@ -28,5 +28,10 @@ The included code stub will read an integer, n, from STDIN.
 Without using any string methods, try to print the following:
 123...n
 
+## Python_28_June:
+
+ Print a list of all possible coordinates given by (i, j, k) on a 3D grid where the sum of i+j+k is not equal to n. Here,
+ 0<=i<=x+1; 0<=j<=y+1; 0<=k<=z+1.
+
 
 
