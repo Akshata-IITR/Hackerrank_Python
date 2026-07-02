@@ -33,5 +33,6 @@ Without using any string methods, try to print the following:
  Print a list of all possible coordinates given by (i, j, k) on a 3D grid where the sum of i+j+k is not equal to n. Here,
  0<=i<=x+1; 0<=j<=y+1; 0<=k<=z+1.
 
-
+## Find_RunnerUp:
+Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up.
 
