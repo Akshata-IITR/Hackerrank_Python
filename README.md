@@ -1,45 +1,49 @@
-# Hackerrank_Python
+<div align="center">
 
-## Python_1(Task): 
+# 🧠 Coding Solutions
 
-Given an integer 'n' , perform the following conditional actions:
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-8--22--2026-green?style=for-the-badge)
 
-If 'n' is odd, print Weird
-If 'n' is even and in the inclusive range of 2 to 5, print Not Weird
-If 'n' is even and in the inclusive range of 6 to 20, print Weird
-If 'n' is even and greater than 20, print Not Weird.
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
+</div>
 
-## Python_26_June(Task):
+---
 
-In the Gregorian calendar, three conditions are used to identify leap years:
+## 📊 Stats
 
-The year can be evenly divided by 4, is a leap year, unless:
-The year can be evenly divided by 100, it is NOT a leap year, unless:
-The year is also evenly divisible by 400. Then it is a leap year.
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **1** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
 
-Task
+## 🛠️ Languages
 
-Given a year, determine whether it is a leap year. If it is a leap year, return the Boolean True, otherwise return False.
+| Language | Solutions |
+|:---:|:---:|
+| Python | **1** |
 
-## Python_27_June(Task):
-The included code stub will read an integer, n, from STDIN.
+## 📂 Repository Structure
 
-Without using any string methods, try to print the following:
-123...n
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
 
-## Python_28_June:
+---
 
- Print a list of all possible coordinates given by (i, j, k) on a 3D grid where the sum of i+j+k is not equal to n. Here,
- 0<=i<=x+1; 0<=j<=y+1; 0<=k<=z+1.
+<div align="center">
 
-## Find_RunnerUp:
-Given the participants' score sheet for your University Sports Day, you are required to find the runner-up score. You are given n scores. Store them in a list and find the score of the runner-up.
+*Last updated: 2026-08-22* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
-## Nested_List:
-Given the names and grades for each student in a class of N students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
-
-Note: If there are multiple students with the second lowest grade, order their names alphabetically and print each name on a new line.
-
-## Finding_the_Percentage:
-The provided code stub will read in a dictionary containing key/value pairs of name:[marks] for a list of students. Print the average of the marks array for the student name provided, showing 2 places after the decimal.
+</div>
