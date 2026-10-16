@@ -46,3 +46,10 @@ Initialize your list and read in the value of n followed by n lines of commands 
 
 ## Tuples:
 Given an integer, n, and n space-separated integers as input, create a tuple, t, of those n integers. Then compute and print the result of hash(t).
+
+## Swap_Case:
+You are given a string and your task is to swap cases. In other words, convert all lowercase letters to uppercase letters and vice versa.
+
+For Example:
+Www.HackerRank.com → wWW.hACKERrANK.COM
+Pythonist 2 → pYTHONIST 2  
